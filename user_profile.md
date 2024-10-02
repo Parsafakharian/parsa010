@@ -1,2 +1,2 @@
 User Profile Section
-User settings and preferences
+User settings and preferences.
